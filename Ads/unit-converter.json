@@ -23,6 +23,15 @@
             "NativeAdKey": ""
         },
         {
+            "MonetizationId": 5,
+            "MonetizerName": "UnityAds",
+            "AdAppKey": "4969313",
+            "BannerAdKey": "Banner_Android",
+            "InterstitialAdKey": "Interstitial_Android",
+            "RewardedAdKey": "Rewarded_Android",
+            "NativeAdKey": ""
+        },
+        {
             "MonetizationId": 2,
             "MonetizerName": "AdMob",
             "AdAppKey": "ca-app-pub-3487297678781435~8636329537",
